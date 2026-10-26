@@ -1,0 +1,16 @@
+INFO - Demarrage de NOVA-APP
+INFO - Configuration chargee
+INFO - Connexion utilisateur reussie
+WARNING - Utilisation memoire elevee
+INFO - Requete HTTP recue
+ERROR - Connexion base de donnees echouee
+INFO - Nouvelle tentative de connexion
+INFO - Connexion retablie
+WARNING - Temps de reponse eleve
+INFO - Traitement en cours
+ERROR - Service temporairement indisponible
+INFO - Redemarrage du service
+INFO - Service operationnel
+WARNING - Espace disque faible
+ERROR - Echec de sauvegarde
+ERROR - Nouvelle erreur detectee
