@@ -1,0 +1,15 @@
+=== Fichiers LOG ===
+/home/Melisse/nova-it/production/logs/application.log
+/home/Melisse/nova-it/production/logs/error.log
+/home/Melisse/nova-it/production/logs/errors-only.log
+=== Fichiers de configuration ===
+/home/Melisse/nova-it/production/config/application.properties
+/home/Melisse/nova-it/integration/tests/application-test.properties
+/home/Melisse/nova-it/archives/config/application.properties
+=== Application JAR ===
+/home/Melisse/nova-it/production/application/app.jar
+/home/Melisse/nova-it/integration/livraisons/app.jar
+=== Taille production ===
+12K	/home/Melisse/nova-it/production
+=== Chemin configuration ===
+/home/Melisse/nova-it/production/config/application.properties
