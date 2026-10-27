@@ -1,0 +1,9 @@
+=== Permissions du fichier de configuration ===
+-rw-------. 1 Melisse Melisse 115 26 oct 21:27 /home/Melisse/nova-it/production/config/application.properties
+=== Permissions du script ===
+-rwxr-xr-x. 1 Melisse Melisse 70 27 oct 06:51 /home/Melisse/nova-it/production/scripts/start.sh
+=== Permissions des dossiers ===
+drwxr-xr-x. 2 Melisse Melisse 21 26 oct 17:42 /home/Melisse/nova-it/production/application
+drwxr-xr-x. 2 Melisse Melisse 36 26 oct 21:27 /home/Melisse/nova-it/production/config
+drwxr-xr-x. 2 Melisse Melisse 69 26 oct 21:44 /home/Melisse/nova-it/production/logs
+drwxr-xr-x. 3 Melisse Melisse 41 27 oct 06:51 /home/Melisse/nova-it/production/scripts
