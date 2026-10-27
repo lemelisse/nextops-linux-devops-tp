@@ -1,0 +1,30 @@
+=== Etat du service Apache ===
+active
+=== Demarrage automatique ===
+enabled
+=== Test HTTP ===
+HTTP/1.1 200 OK
+Date: Tue, 27 Oct 2026 07:37:32 GMT
+Server: Apache/2.4.62 (Rocky Linux)
+Last-Modified: Tue, 27 Oct 2026 07:33:18 GMT
+ETag: "2d-65ecd75d60fa1"
+Accept-Ranges: bytes
+Content-Length: 45
+Content-Type: text/html; charset=UTF-8
+
+=== Journaux Apache ===
+oct 27 08:29:17 vbox httpd[902958]: AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using fe80::a00:27ff:fe46:2394%enp0s3. Set the 'ServerName' directive globally to suppress this message
+oct 27 08:29:17 vbox httpd[902958]: Server configured, listening on: port 80
+oct 27 08:29:17 vbox systemd[1]: Started The Apache HTTP Server.
+oct 27 08:34:24 vbox systemd[1]: Stopping The Apache HTTP Server...
+oct 27 08:34:25 vbox systemd[1]: httpd.service: Deactivated successfully.
+oct 27 08:34:25 vbox systemd[1]: Stopped The Apache HTTP Server.
+oct 27 08:34:25 vbox systemd[1]: httpd.service: Consumed 1.051s CPU time.
+oct 27 08:34:42 vbox systemd[1]: Starting The Apache HTTP Server...
+oct 27 08:34:42 vbox httpd[905138]: AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using fe80::a00:27ff:fe46:2394%enp0s3. Set the 'ServerName' directive globally to suppress this message
+oct 27 08:34:42 vbox httpd[905138]: Server configured, listening on: port 80
+oct 27 08:34:42 vbox systemd[1]: Started The Apache HTTP Server.
+oct 27 08:34:51 vbox systemd[1]: Reloading The Apache HTTP Server...
+oct 27 08:34:51 vbox httpd[905384]: AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using fe80::a00:27ff:fe46:2394%enp0s3. Set the 'ServerName' directive globally to suppress this message
+oct 27 08:34:52 vbox systemd[1]: Reloaded The Apache HTTP Server.
+oct 27 08:34:52 vbox httpd[905138]: Server configured, listening on: port 80
