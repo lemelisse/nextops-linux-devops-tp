@@ -1,0 +1,16 @@
+=== Archives ===
+total 4,0K
+-rw-r--r--. 1 Melisse Melisse 1,1K 27 oct 19:58 backup_20261027_195841.tar.gz
+=== Journal ===
+[mar 27 oct 2026 18:56:51 CET] Debut de la sauvegarde
+[mar 27 oct 2026 18:56:51 CET] ERREUR : sauvegarde echouee
+[mar 27 oct 2026 18:56:56 CET] Debut de la sauvegarde
+[mar 27 oct 2026 18:56:56 CET] ERREUR : sauvegarde echouee
+[mar 27 oct 2026 19:58:41 CET] Debut de la sauvegarde
+[mar 27 oct 2026 19:58:41 CET] Sauvegarde reussie
+=== Restauration ===
+total 0
+drwxr-xr-x. 2 Melisse Melisse 21 26 oct 17:42 application
+drwxr-xr-x. 2 Melisse Melisse 36 26 oct 21:27 config
+drwxr-xr-x. 2 Melisse Melisse 69 26 oct 21:44 logs
+drwxr-xr-x. 3 Melisse Melisse 41 27 oct 06:51 scripts
