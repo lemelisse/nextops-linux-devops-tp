@@ -1,0 +1,19 @@
+=== Utilisateur ===
+Melisse
+=== Processus en cours ===
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root           1  0.0  1.0 183752 18124 ?        Ss   oct24   1:21 /usr/lib/systemd/systemd --switched-root --system --deserialize 31
+root           2  0.0  0.0      0     0 ?        S    oct24   0:00 [kthreadd]
+root           3  0.0  0.0      0     0 ?        S    oct24   0:00 [pool_workqueue_]
+root           4  0.0  0.0      0     0 ?        I<   oct24   0:00 [kworker/R-rcu_gp]
+root           5  0.0  0.0      0     0 ?        I<   oct24   0:00 [kworker/R-sync_wq]
+root           6  0.0  0.0      0     0 ?        I<   oct24   0:00 [kworker/R-slub_flushwq]
+root           7  0.0  0.0      0     0 ?        I<   oct24   0:00 [kworker/R-netns]
+root          11  0.0  0.0      0     0 ?        I<   oct24   0:00 [kworker/R-mm_percpu_wq]
+root          12  0.0  0.0      0     0 ?        I    oct24   0:22 [kworker/u8:1-efi_rts_wq]
+root          13  0.0  0.0      0     0 ?        I    oct24   0:00 [rcu_tasks_kthre]
+root          14  0.0  0.0      0     0 ?        I    oct24   0:00 [rcu_tasks_rude_]
+root          15  0.0  0.0      0     0 ?        I    oct24   0:00 [rcu_tasks_trace]
+root          16  0.0  0.0      0     0 ?        S    oct24   3:26 [ksoftirqd/0]
+root          17  0.4  0.0      0     0 ?        I    oct24  17:24 [rcu_preempt]
+=== Taches du terminal ===
