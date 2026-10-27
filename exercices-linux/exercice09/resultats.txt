@@ -1,0 +1,9 @@
+=== Utilisateur ===
+uid=1003(opsuser) gid=1004(opsuser) groupes=1004(opsuser),1003(ops)
+=== Groupe OPS ===
+ops:x:1003:opsuser
+=== Permissions du dossier ===
+drwxrws---. 2 root ops 26 27 oct 07:23 /srv/ops-partage
+=== Fichiers du dossier ===
+total 0
+-rw-r--r--. 1 opsuser ops 0 27 oct 07:23 test-ops.txt
