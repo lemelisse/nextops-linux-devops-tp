@@ -1,0 +1,7 @@
+=== Service FTP ===
+active
+=== Port FTP ===
+LISTEN 0      32         127.0.0.1:21        0.0.0.0:*    users:(("vsftpd",pid=959526,fd=3))                                                                             
+=== Fichier transfere ===
+total 4
+-rw-r--r--. 1 opsuser opsuser 30 27 oct 18:43 ftp-test.txt
